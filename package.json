@@ -1,24 +1,24 @@
 {
-  "name": "Test-Driven-Katas",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha wrap.spec --watch"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vpatel1215/Test-Driven-Katas.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vpatel1215/Test-Driven-Katas/issues"
-  },
-  "homepage": "https://github.com/vpatel1215/Test-Driven-Katas#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "chai": "^4.2.0"
-  }
+    "name": "Test-Driven-Katas",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha twoSum.spec --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vpatel1215/Test-Driven-Katas.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vpatel1215/Test-Driven-Katas/issues"
+    },
+    "homepage": "https://github.com/vpatel1215/Test-Driven-Katas#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "chai": "^4.2.0"
+    }
 }
